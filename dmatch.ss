@@ -64,7 +64,7 @@
 (define (ambiguous-pattern/guard name v-expr v pkg*)
   (printf "dmatch ~@[~d~] ambiguous matching clauses~n" name)
   (printf "with ~d evaluating to ~d~n" v-expr v)
-  (printf "____________________________________~n")
+  (printf "────────────────────────────────────~n")
   (printf "~{~d~n~}" (map pkg-clause pkg*)))
 
 )
