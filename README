@@ -1,0 +1,9 @@
+This is a literate version of the dmatch pattern matching
+macros for Chez Scheme.
+
+The main source is the .czw file. 
+
+The .ss file is not meant to be READ!
+
+The .pdf file contains a recent woven version of the code, it *is* 
+meant to be read.
